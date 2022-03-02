@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-Alpha)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **Phoenix-Alpha/Phoenix-Alpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
