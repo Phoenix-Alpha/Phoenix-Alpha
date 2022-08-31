@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Rust
 - ⚡ Contributor to [TinaCMS](https://github.com/tinacms)
 - 👯 I’m looking to collaborate on startups & awesome open-source projects
-- 🤔 I’m looking for help with learning Rust
 - 😄 Pronouns: He/Him
 
 <!--
