@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at Flatrock
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on startups & awesome open source projects
+- 🤔 I’m looking for help with learning Rust
+- 😄 Pronouns: He/Him
+
 <!--
 **Phoenix-Alpha/Phoenix-Alpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
