@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at Flatrock
 - 🌱 I’m currently learning Rust
 - ✨ I'm proficient in ReactJS, NextJS, Spring Boot and AWS
-- ✨ I'm experienced with hybrid mobile app development by React Native, Flutter & Ionic
+- ✨ I'm experienced with building mobile apps using React Native, Flutter & Ionic
 - ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
 - 👯 I’m looking to collaborate on startups & awesome open-source projects
 - 😄 Pronouns: He/Him
