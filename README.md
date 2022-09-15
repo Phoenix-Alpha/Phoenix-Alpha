@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at code-atelier
+- 🔭 I’m currently working at Flatrock
 - 🌱 I’m currently learning Rust
 - ✨ I'm proficient in ReactJS, NextJS, NodeJS, NestJS, Spring Boot and AWS
 - ✨ I'm experienced with Ruby and Elixir
