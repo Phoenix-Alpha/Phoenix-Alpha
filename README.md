@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Flatrock
+- 🔭 I’m currently working at Tina
 - 🌱 I’m currently learning Rust
 - ✨ I'm proficient in ReactJS, NextJS, Angular 8+(NgRx & RxJS), VueJS, Nuxt, NodeJS, NestJS, Spring Boot and AWS
 - ✨ I'm experienced with Svelte, Ruby and Elixir
