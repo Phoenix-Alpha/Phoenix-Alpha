@@ -8,7 +8,7 @@
 - ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
 - 👯 I’m looking to collaborate on startups & awesome open-source projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an AI Enthusiast looking to change my career as AI Engineer in the future ...
+- ⚡ Fun fact: I am an AI Enthusiast and I constantly apply GA optimization algorithm in my life through exploring & exploiting 😄
 
 <!--
 **Phoenix-Alpha/Phoenix-Alpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
