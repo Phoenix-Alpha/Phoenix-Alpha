@@ -2,9 +2,11 @@
 
 - 🔭 I’m currently working at Tina
 - 🌱 I’m currently learning Rust
-- ✨ I'm proficient in ReactJS, NextJS, Angular 8+(NgRx & RxJS), VueJS, Nuxt, NodeJS, NestJS, Spring Boot and AWS
-- ✨ I'm experienced with building mobile apps using React Native, Flutter & Ionic
 - ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
+- ✨ I'm proficient in ReactJS, NextJS, Angular 8+(NgRx & RxJS), VueJS and Nuxt.
+- ✨ Server-side Frameworks: NodeJS, NestJS, Spring Boot, Flask and Django
+- ✨ Cloud: AWS, GCP, Vercel, Heroku, Netlify
+- ✨ Mobile: React Native, Flutter & Ionic
 - 👯 I’m looking to collaborate on startups & awesome open-source projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an AI Enthusiast and I constantly apply GA optimization algorithm in my life through exploring & exploiting 😄
