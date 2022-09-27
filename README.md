@@ -3,7 +3,6 @@
 - 🔭 I’m currently working at Tina
 - 🌱 I’m currently learning Rust
 - ✨ I'm proficient in ReactJS, NextJS, Angular 8+(NgRx & RxJS), VueJS, Nuxt, NodeJS, NestJS, Spring Boot and AWS
-- ✨ I'm experienced with Svelte, Ruby and Elixir
 - ✨ I'm experienced with building mobile apps using React Native, Flutter & Ionic
 - ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
 - 👯 I’m looking to collaborate on startups & awesome open-source projects
