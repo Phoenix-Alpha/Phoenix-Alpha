@@ -10,7 +10,7 @@
 - ✨ Platforms and Tools: Docker, Linux, MacOS
 - 👯 I’m looking to collaborate on startups & awesome open-source projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an AI Enthusiast and I constantly apply GA optimization strategy in my life - exploring & exploiting 😄
+- ⚡ Fun fact: I am an AI Enthusiast and I constantly apply GA optimization strategy in my life - explore & exploit 😄
 
 <!--
 **Phoenix-Alpha/Phoenix-Alpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
