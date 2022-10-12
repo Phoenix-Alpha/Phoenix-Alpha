@@ -5,7 +5,7 @@
 - ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
 - ✨ I'm proficient in ReactJS, NextJS, Angular 8+(NgRx & RxJS), VueJS and Nuxt.
 - ✨ Server-side Frameworks: NodeJS, NestJS, Spring Boot, Flask and Django
-- ✨ Cloud: AWS, GCP, Vercel
+- ✨ Cloud: AWS & GCP
 - ✨ Mobile: React Native, Flutter & Ionic
 - ✨ Platforms and Tools: Docker, Linux, MacOS
 - 👯 I’m looking to collaborate on startups & awesome open-source projects
