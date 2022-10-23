@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Tina
 - 🌱 I’m currently learning Rust
 - ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
 - ✨ I'm proficient in ReactJS, NextJS, Angular 8+(NgRx & RxJS), VueJS and Nuxt.
