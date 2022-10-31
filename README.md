@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
 - ✨ I'm proficient in ReactJS, NextJS, Angular 8+(NgRx & RxJS), VueJS and Nuxt.
-- ✨ Server-side Frameworks: NodeJS, NestJS, Spring Boot, Flask and Django
+- ✨ Server-side Frameworks: NodeJS, NestJS and Spring Boot
 - ✨ Cloud: AWS & GCP
 - ✨ Mobile: React Native, Flutter & Ionic
 - ✨ Platforms and Tools: Docker, Linux, MacOS
