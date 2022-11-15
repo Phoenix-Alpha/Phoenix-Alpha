@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Rust
+- 🔭 Fields of interest: Web3
 - ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
 - ✨ I'm proficient in ReactJS, NextJS, Angular 8+(NgRx & RxJS), VueJS and Nuxt.
 - ✨ Server-side Frameworks: NodeJS, NestJS and Spring Boot
@@ -8,8 +9,7 @@
 - ✨ Mobile: React Native, Flutter & Ionic
 - ✨ Platforms and Tools: Docker, Linux, MacOS
 - 👯 I’m looking to collaborate on startups & awesome open-source projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an AI Enthusiast and I constantly apply GA optimization strategy in my life - explore & exploit 😄
+- 😄 Fun fact: I am an AI Enthusiast and I constantly apply GA optimization strategy in my life - explore & exploit 😄
 
 <!--
 **Phoenix-Alpha/Phoenix-Alpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
