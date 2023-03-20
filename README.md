@@ -6,7 +6,6 @@
 - ✨ I'm proficient in ReactJS, NextJS, Angular 8+(NgRx & RxJS), VueJS & Nuxt.
 - ✨ Server-side Frameworks: NestJS & Spring Boot
 - ✨ Cloud: AWS & GCP
-- ✨ Mobile: React Native, Flutter & Ionic
 - ✨ Platforms and Tools: Docker, Linux, MacOS
 - 👯 I’m looking to collaborate on startups & awesome open-source projects
 
