@@ -4,7 +4,7 @@
 - ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
 - 🔭 Fields of interest: DevOps, Web3
 - ✨ I'm proficient in ReactJS, NextJS, Angular 8+(NgRx & RxJS), VueJS & Nuxt.
-- ✨ Server-side Frameworks: NestJS & Spring Boot
+- ✨ Server-side Frameworks: NestJS, Spring Boot & Django
 - ✨ Cloud: AWS & GCP
 - ✨ Platforms and Tools: Docker, Linux, MacOS
 
