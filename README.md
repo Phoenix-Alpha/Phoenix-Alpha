@@ -10,7 +10,7 @@
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/riccoxie"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/betafoenix"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <!--
 **Phoenix-Alpha/Phoenix-Alpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
