@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning GO & Rust
 - ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
-- 🔭 Fields of interest: DevOps, Web3 & AI
-- ✨ I'm proficient in ReactJS, NextJS, Angular 8+(NgRx & RxJS), VueJS & Nuxt.
+- 🔭 Fields of interest: DevOps, AI, 
+- ✨ I'm proficient in ReactJS, NextJS, and Angular 8+(NgRx & RxJS)
 - ✨ Server-side Frameworks: NestJS, Spring Boot & Django
 - ✨ Cloud: AWS & GCP
 - ✨ Platforms and Tools: Docker, Linux, MacOS
