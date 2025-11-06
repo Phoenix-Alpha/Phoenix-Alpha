@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Go & Rust
-- ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
-- 🔭 Fields of interest: DevOps, AI, 
-- ✨ I'm proficient in ReactJS, NextJS, and Angular 8+(NgRx & RxJS)
-- ✨ Server-side Frameworks: NestJS, Spring Boot & Django
-- ✨ Cloud: AWS & GCP
-- ✨ Platforms and Tools: Docker, Linux, MacOS
+- 🌱 Currently exploring Go and Rust to deepen my systems and backend development skills
+- ⚡ Open-source contributor to TinaCMS
+- 🔭 Interested in DevOps, AI, and distributed systems
+- 💻 Proficient in React.js, Next.js, and Angular (NgRx & RxJS)
+- 🧩 Backend experience with NestJS, Spring Boot, Rails, and Django
+- ☁️ Cloud expertise in AWS and GCP
+- 🛠️ Skilled with Docker, Kubernetes, Linux, and macOS
 
 <!--
 **Phoenix-Alpha/Phoenix-Alpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
