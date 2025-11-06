@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning GO & Rust
+- 🌱 I’m currently learning Go & Rust
 - ⚡ Open-source contributor to [TinaCMS](https://github.com/tinacms)
 - 🔭 Fields of interest: DevOps, AI, 
 - ✨ I'm proficient in ReactJS, NextJS, and Angular 8+(NgRx & RxJS)
